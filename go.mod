@@ -1,4 +1,4 @@
-module github.com/zserge/lorca
+module github.com/misaka9981/lorca
 
 go 1.16
 
